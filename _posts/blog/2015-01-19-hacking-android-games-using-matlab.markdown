@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hacking Android games using MATLAB [without root]"
-date: 2016-02-12 18:00:00
+date: 2015-01-19 18:00:00
 author: Sandeep Nadella
 categories:
 - blog
